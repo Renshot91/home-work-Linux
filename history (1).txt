@@ -1,0 +1,25 @@
+   0 whoami
+   1 ls /
+   2 mkdir /home/animals
+   3 mkdir /home/animals/dogs
+   4 mkdir /home/animals/cats
+   5 mkdir /home/animals/fish
+   6 ls -l /home/animals/
+   7 touch /home/animals/dogs/pluto
+   8 touch /home/animals/cats/garfield
+   9 touch /home/animals/fish/nemo
+  10 tree /home/animals/
+  11 touch /tmp/adam
+  12 ls -l /tmp/
+  13 > /tmp/adam
+  14 ls -l /tmp/
+  15 mkdir /home/humans
+  16 cp /tmp/adam /home/human/
+  17 cp /tmp/adam /home/humans/
+  18 ls -l /home/
+  19 > /tmp/evA
+  20 mv /tmp/evA /opt/eve
+  21 ls -l /tmp/
+  22 mv /opt/eve /home/humans/
+  23 ls -l /home/humans/
+  24 history > history.txt
